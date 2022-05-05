@@ -1,3 +1,4 @@
+# Required git config --global --add safe.directory /github/workspace
 # Imports (in alphabetically sorted order)
 import os
 import math
