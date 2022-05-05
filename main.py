@@ -1,5 +1,4 @@
-# Imports (in alphabetically sorted order) 
-
+# Imports (in alphabetically sorted order)
 import os
 import math
 
